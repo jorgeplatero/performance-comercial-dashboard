@@ -1,6 +1,6 @@
 # Dashboard de Performance Comercial
 
-Dashboard de produção realizado em treinamento de Power BI da Dados Criativos.
+Dashboard de performance comercial realizado em treinamento de Power BI da Dados Criativos.
 
 ## Tecnologias Utilizadas
 
